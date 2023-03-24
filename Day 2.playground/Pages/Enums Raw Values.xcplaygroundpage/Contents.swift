@@ -7,5 +7,5 @@ enum Planet: Int {
     case mars
 }
 
-let numEarth = Planet(rawValue: 100)
+let numEarth = Planet(rawValue: 102)
 
